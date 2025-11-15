@@ -1,5 +1,33 @@
-streamlit
-tensorflow
-scikit-learn
-Pillow
-numpy
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.1
+
+# Deep Learning & Feature Extraction
+tensorflow==2.16.1
+keras==3.3.3
+torch==2.3.0
+torchvision==0.18.0
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Similarity Search
+faiss-cpu==1.8.0
+scikit-learn==1.5.0
+scipy==1.12.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Utilities
+tqdm==4.66.4
+joblib==1.3.2
+
+# Deployment / App (optional)
+streamlit==1.34.0
+flask==3.0.3
+
+
